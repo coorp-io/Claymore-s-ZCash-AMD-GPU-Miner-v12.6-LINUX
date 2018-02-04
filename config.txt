@@ -1,0 +1,26 @@
+#ZenCash
+-zpool eu.coorp.io:3032 
+-zwal znSNxcGBUZSuhiR3JHtHKygGi35VXgAgdPe.workerName 
+#Hush
+#-zpool us.coorp.io:3034 
+#-zwal t1RGwDc21mxd9J511GkQng78j8aFrZPJa3A.workerName
+#VoteCoin
+#-zpool us.coorp.io:3035 
+#-zwal t1MskC7ubCKUDixmbYL7cLHvdkNJg5aDXpd.workerName 
+#BitcoinZ
+#-zpool us.coorp.io:3033 
+#-zwal t1gUFb4za5jLvpjz7iRc3hPPcFySMdtkKYv.workerName
+#SnowGen
+#-zpool us.coorp.io:3031 
+#-zwal [address].[worker
+#Komodo
+#-zpool eu.coorp.io:3857 
+#-zwal RSCMuFshgvVnf6X4ukVgBHv9zS1sUdr2Ld.workerName
+-zpsw z
+#-tt 75
+#-i 8
+#-powlim 50
+#-a 2
+#-asm 0
+-allpools 1
+
