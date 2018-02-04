@@ -1,7 +1,8 @@
 # WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
 
-# POOL: ssl://asia1-zcash.flypool.org:3443, WALLET: t1RjQjDbPQ9Syp97DHFyzvgZhcjgLTMwhaq.YourWorker, PSW: z, ALLPOOLS: 0 
-# POOL: us-east.equihash-hub.miningpoolhub.com:20570, WALLET: YourLogin.YourWorker, PSW: YourPsw, ALLPOOLS: 0
-# POOL: eu1-zcash.flypool.org:3333, WALLET: t1RjQjDbPQ9Syp97DHFyzvgZhcjgLTMwhaq.YourWorker, PSW: z, ALLPOOLS: 0
-# POOL: zec-eu1.nanopool.org:6666, WALLET: t1RjQjDbPQ9Syp97DHFyzvgZhcjgLTMwhaq, PSW: z, ALLPOOLS: 0
-# POOL: zec.suprnova.cc:2142, WALLET: YourLogin.YourWorker, PSW: YourPsw, ALLPOOLS: 0
+# POOL: us.coorp.io:3034, WALLET: t1RGwDc21mxd9J511GkQng78j8aFrZPJa3A.workerName, PSW: z, ALLPOOLS: 1
+# POOL: us.coorp.io:3035, WALLET: t1MskC7ubCKUDixmbYL7cLHvdkNJg5aDXpd.workerName, PSW: z, ALLPOOLS: 1
+# POOL: us.coorp.io:3033, WALLET: t1gUFb4za5jLvpjz7iRc3hPPcFySMdtkKYv.workerName, PSW: z, ALLPOOLS: 1
+# POOL: us.coorp.io:3031, WALLET: s1cem8nZGpeDRqUBsYspFUxwJpxbd1JrFAV.workerName, PSW: z, ALLPOOLS: 1
+# POOL: eu.coorp.io:3857, WALLET: RSCMuFshgvVnf6X4ukVgBHv9zS1sUdr2Ld.workerName, PSW: z, ALLPOOLS: 1
+# POOL: eu.coorp.io:3032, WALLET: znSNxcGBUZSuhiR3JHtHKygGi35VXgAgdPe.workerName, PSW: z, ALLPOOLS: 1
